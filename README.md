@@ -58,7 +58,8 @@ To run this project locally, follow these steps:
     ```
     The application will open in your web browser at `http://localhost:8501`.
 
-## Usage
+## Usage<img width="1916" height="910" alt="result" src="https://github.com/user-attachments/assets/7f1e64e6-4549-419e-a3da-9ba0303586d9" />
+
 
 1.  Launch the application using the command above.
 2.  Either paste your text into the text area or use the file uploader to select a PDF document.
